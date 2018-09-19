@@ -1,0 +1,11 @@
+.image {
+  background-size: cover;
+  display: flex;
+  height: 100vh;
+  left: 0;
+  position: fixed;
+  top: 0;
+  transform: scale(1);
+  transition: transform 700ms;
+  width: 100vw;
+}
